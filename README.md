@@ -10,9 +10,10 @@ Make Your Burger é uma aplicação full-stack que permite aos usuários criar h
 - Feedback em Tempo Real : Notificações sobre o status dos pedidos
 - Design Responsivo : Experiência otimizada em dispositivos móveis e desktop
 
-## 📸 Capturas de Tela
-![Captura de Tela 1]
-![Captura de Tela 2]
+## 📸 Prévia
+![Pagina inicial](./src/assets/Home.png)
+![Formulario](./src/assets/Formulario.png)
+![Pagina de pedidos](./src/assets/Pedidos.png)
 
 ## 🛠️ Tecnologias Utilizadas
 - Frontend : Vue.js 3, Vue Router
@@ -115,3 +116,5 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 📞 Contato
 Fabio Henrique - fabiohvp2012@gmail.com
+
+Feito com ❤️ por Fabio Henrique.
