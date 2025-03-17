@@ -1,0 +1,128 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 6,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "a837",
+      "nome": "Fabio",
+      "pao": "Italiano Branco",
+      "carne": "Picanha",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "33fc",
+      "nome": "",
+      "pao": "",
+      "carne": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "79f8",
+      "nome": null,
+      "pao": null,
+      "carne": null,
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "f312",
+      "nome": null,
+      "pao": null,
+      "carne": null,
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "aa38",
+      "nome": "awdawd",
+      "pao": "Italiano Branco",
+      "carne": "Alcatra",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Finalizado"
+    }
+  ]
+}
