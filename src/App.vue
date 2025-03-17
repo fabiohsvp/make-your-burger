@@ -58,6 +58,14 @@ export default {
   .main-container {
     margin: 0px;
     min-height: 250px;
+    flex: 1;
+  }
+
+  /* Layout principal da aplicação */
+  #app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
   }
 
   /* Estilo para links */

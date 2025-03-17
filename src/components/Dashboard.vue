@@ -233,7 +233,7 @@ export default {
 <style scoped>
     /* Estilo do container principal */
     #burger-table {
-        max-width: 1200px;
+        max-width: 1280px;
         margin: 0 auto;
     }
 
@@ -256,6 +256,8 @@ export default {
     #burger-table-heading div,
     .burger-table-row div {
         width: 19%;
+        padding: 12px;
+        box-sizing: border-box;
     }
 
     /* Estilo das linhas da tabela */
@@ -327,6 +329,8 @@ export default {
         .burger-table-row div {
             width: 100%;
             margin-bottom: 8px;
+            padding: 12px;
+            box-sizing: border-box;
         }
         
         /* Ajuste de padding para telas pequenas */

@@ -88,41 +88,6 @@
         "Salame"
       ],
       "status": "Em produção"
-    },
-    {
-      "id": "33fc",
-      "nome": "",
-      "pao": "",
-      "carne": "",
-      "opcionais": [],
-      "status": "Solicitado"
-    },
-    {
-      "id": "79f8",
-      "nome": null,
-      "pao": null,
-      "carne": null,
-      "opcionais": [],
-      "status": "Solicitado"
-    },
-    {
-      "id": "f312",
-      "nome": null,
-      "pao": null,
-      "carne": null,
-      "opcionais": [],
-      "status": "Solicitado"
-    },
-    {
-      "id": "aa38",
-      "nome": "awdawd",
-      "pao": "Italiano Branco",
-      "carne": "Alcatra",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Finalizado"
     }
   ]
 }
